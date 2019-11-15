@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\SnakeDraft\Lines\bin\Debug\netcoreapp3.0\Lines.exe
+C:\Users\opilane\projects\SnakeDraft\Lines\bin\Debug\netcoreapp3.0\Lines.deps.json
+C:\Users\opilane\projects\SnakeDraft\Lines\bin\Debug\netcoreapp3.0\Lines.runtimeconfig.json
+C:\Users\opilane\projects\SnakeDraft\Lines\bin\Debug\netcoreapp3.0\Lines.runtimeconfig.dev.json
+C:\Users\opilane\projects\SnakeDraft\Lines\bin\Debug\netcoreapp3.0\Lines.dll
+C:\Users\opilane\projects\SnakeDraft\Lines\bin\Debug\netcoreapp3.0\Lines.pdb
+C:\Users\opilane\projects\SnakeDraft\Lines\obj\Debug\netcoreapp3.0\Lines.csprojAssemblyReference.cache
+C:\Users\opilane\projects\SnakeDraft\Lines\obj\Debug\netcoreapp3.0\Lines.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\SnakeDraft\Lines\obj\Debug\netcoreapp3.0\Lines.AssemblyInfo.cs
+C:\Users\opilane\projects\SnakeDraft\Lines\obj\Debug\netcoreapp3.0\Lines.dll
+C:\Users\opilane\projects\SnakeDraft\Lines\obj\Debug\netcoreapp3.0\Lines.pdb

@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.exe
+C:\Users\opilane\projects\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.deps.json
+C:\Users\opilane\projects\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.runtimeconfig.json
+C:\Users\opilane\projects\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.runtimeconfig.dev.json
+C:\Users\opilane\projects\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.dll
+C:\Users\opilane\projects\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.pdb
+C:\Users\opilane\projects\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.csprojAssemblyReference.cache
+C:\Users\opilane\projects\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.AssemblyInfo.cs
+C:\Users\opilane\projects\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.dll
+C:\Users\opilane\projects\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.pdb

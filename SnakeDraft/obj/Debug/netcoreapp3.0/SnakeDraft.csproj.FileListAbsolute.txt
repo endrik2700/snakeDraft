@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.exe
+C:\Users\opilane\projects\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.deps.json
+C:\Users\opilane\projects\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.runtimeconfig.json
+C:\Users\opilane\projects\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.runtimeconfig.dev.json
+C:\Users\opilane\projects\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.dll
+C:\Users\opilane\projects\SnakeDraft\SnakeDraft\bin\Debug\netcoreapp3.0\SnakeDraft.pdb
+C:\Users\opilane\projects\SnakeDraft\SnakeDraft\obj\Debug\netcoreapp3.0\SnakeDraft.csprojAssemblyReference.cache
+C:\Users\opilane\projects\SnakeDraft\SnakeDraft\obj\Debug\netcoreapp3.0\SnakeDraft.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\SnakeDraft\SnakeDraft\obj\Debug\netcoreapp3.0\SnakeDraft.AssemblyInfo.cs
+C:\Users\opilane\projects\SnakeDraft\SnakeDraft\obj\Debug\netcoreapp3.0\SnakeDraft.dll
+C:\Users\opilane\projects\SnakeDraft\SnakeDraft\obj\Debug\netcoreapp3.0\SnakeDraft.pdb
